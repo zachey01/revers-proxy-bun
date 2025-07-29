@@ -1,1 +1,1 @@
-# revers-proxy-bun
+# reverse-proxy-bun
